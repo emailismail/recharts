@@ -1,5 +1,5 @@
 {
-  "name": "recharts",
+  "name": "recharts-ktree",
   "version": "1.8.5",
   "description": "React charts",
   "main": "lib/index",
